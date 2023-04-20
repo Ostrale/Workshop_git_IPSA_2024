@@ -1,4 +1,4 @@
-https://img.shields.io/npm/collaborators/Workshop_git_IPSA_2024?style=social
+![npm collaborators](https://img.shields.io/npm/collaborators/Workshop_git_IPSA_2024?style=social)
 
 # Workshop_git_IPSA_2024
 
